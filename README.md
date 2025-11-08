@@ -95,9 +95,6 @@ If you face any problem with:
 - Missing nodes
 - Workflow execution
 
-➡️ Create an issue:  
-https://github.com/**YOUR_GITHUB_USERNAME**/n8n-workflows/issues
-
 ---
 
 ## 🛡 License
