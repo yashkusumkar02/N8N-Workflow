@@ -12,18 +12,19 @@ A curated collection of **production-ready n8n automation workflows**, designed 
 
 ## 📂 Repository Structure
 
+```bash
 n8n-workflows/
-├─ README.md # You're here
-├─ workflows/ # All workflows live here
-│ ├─ resume-screening/ # Example workflow
-│ │ ├─ workflow.json
-│ │ ├─ README.md
-│ │ ├─ env.example
-│ │ ├─ screenshots/
-│ │ └─ notes.md
-├─ assets/ # Shared images / demo gifs
+├─ README.md                     # You're here
+├─ workflows/                    # All workflows live here
+│   ├─ resume-screening/         # Example workflow
+│   │   ├─ workflow.json
+│   │   ├─ README.md
+│   │   ├─ env.example
+│   │   ├─ screenshots/
+│   │   └─ notes.md
+├─ assets/                       # Shared images / demo gifs
 └─ .gitignore
-
+```
 
 ---
 
