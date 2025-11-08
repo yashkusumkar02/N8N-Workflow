@@ -31,7 +31,7 @@ n8n-workflows/
 
 | Workflow Name | Description | Tech Used | Link |
 |--------------|-------------|-----------|------|
-| Resume Screening (AI-Driven) | Automatically evaluates resumes vs job descriptions and provides match %, strengths, gaps, summary. | n8n · OpenAI · Supabase | [Explore](./workflows/resume-screening/README.md) |
+| Resume Screening (AI-Driven) | Automatically evaluates resumes vs job descriptions and provides match %, strengths, gaps, summary. | n8n · OpenAI · Supabase | [Explore]([./workflows/resume-screening/README.md](https://github.com/yashkusumkar02/N8N-Workflow/tree/main/Resume%20Screening%20N8N)) |
 | *(More coming soon...)* | — | — | — |
 
 ---
